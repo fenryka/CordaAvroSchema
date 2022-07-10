@@ -1,1 +1,7 @@
 Envelope.avsc
+AppMessage.avsc
+AuthenticatedMessage.avsc
+AuthenticatedMessageHeader.avsc
+HoldingIdentity.avsc
+UnauthenticatedMessage.avsc
+UnauthenticatedMessageHeader.avsc
